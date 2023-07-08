@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\dientichhinhchunhat\vonglap\bin\Debug\vonglap.exe.config
+C:\Users\tuan\Desktop\dientichhinhchunhat\vonglap\bin\Debug\vonglap.exe
+C:\Users\tuan\Desktop\dientichhinhchunhat\vonglap\bin\Debug\vonglap.pdb
+C:\Users\tuan\Desktop\dientichhinhchunhat\vonglap\obj\Debug\vonglap.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\vonglap\obj\Debug\vonglap.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\vonglap\obj\Debug\vonglap.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\vonglap\obj\Debug\vonglap.exe
+C:\Users\tuan\Desktop\dientichhinhchunhat\vonglap\obj\Debug\vonglap.pdb
